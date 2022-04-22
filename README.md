@@ -6,7 +6,9 @@ Submitted by: Paul Kim
 
 Time spent: 5 hours spent in total (Excluding Submission Steps)
 
-Link to project: https://noisy-foam-princess.glitch.me
+Link to project: 
+
+Website: https://noisy-foam-princess.glitch.me
 
 Code: https://glitch.com/edit/#!/noisy-foam-princess?path=index.html%3A1%3A0
 
@@ -51,7 +53,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-GIF Video Walk Through
+GIF Video Walk Through of Implemented Functionality
 
 Easy Success Trial
 
