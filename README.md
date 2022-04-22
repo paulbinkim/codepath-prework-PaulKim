@@ -1,2 +1,2 @@
-# codepath-prework-PaulKim
+# codepath-prework-Paul Kim
 Codepath Project Paul Kim
