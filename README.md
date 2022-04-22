@@ -102,23 +102,23 @@ Button Features Trial
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-I would first and foremost add more comments and documentation to make my code more understandable to the general public and clearly map out my logic.
+- I would first and foremost add more comments and documentation to make my code more understandable to the general public and clearly map out my logic.
 
-Make the game friendly and accessible to all devices (iOS and Android). I have only tested this program/web page on my Macbook Pro, and would like to extend its usability to mobile devices and possibly even other devices with other screen resolutions.
+- Make the game friendly and accessible to all devices (iOS and Android). I have only tested this program/web page on my Macbook Pro, and would like to extend its usability to mobile devices and possibly even other devices with other screen resolutions.
 
-If time allowed, I would’ve definitely experimented with tone frequencies and even created a unique beat, rather than just a series of monotonic notes.
+- If time allowed, I would’ve definitely experimented with tone frequencies and even created a unique beat, rather than just a series of monotonic notes.
 
-Continue iterating upon design because there is always room for better UI/UX design.
+- Continue iterating upon design because there is always room for better UI/UX design.
 
-Improve scalability/extensibility to find a way to make this web project into something bigger than a singular game. For example, possibly adding more games to extend this web platform into a hub for numerous simple Javascript games like this one.
+- Improve scalability/extensibility to find a way to make this web project into something bigger than a singular game. For example, possibly adding more games to extend this web platform into a hub for numerous simple Javascript games like this one.
 
-Further reduce the delay when resetting the timer (it’s a little buggy).
+- Further reduce the delay when resetting the timer (it’s a little buggy).
 
-Some 1v1 features among friends where users can play against each other and compete to see who gets a higher score.
+- Some 1v1 features among friends where users can play against each other and compete to see who gets a higher score.
 
-Introduce variability in number of buttons - let the user decide how many buttons they can play with and further possibly relate the difficulty setting with the number of buttons there are displayed.
+- Introduce variability in number of buttons - let the user decide how many buttons they can play with and further possibly relate the difficulty setting with the number of buttons there are displayed.
 
-Many more possibilities to extend this program if given unlimited time.
+- Many more possibilities to extend this program if given unlimited time.
 
 ## Interview Recording URL Link
 
