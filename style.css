@@ -1,0 +1,206 @@
+/* CSS */
+
+/* Default CSS (Initial) */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* CSS for Background */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: #FFF0F5;
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+h1 {
+  color: black;
+}
+
+/* CSS for Paragraphs */
+#Dynamic {
+  margin: 0px;
+  padding: 0px;
+}
+
+#VolumeDisplay {
+  margin: 0px;
+  padding: 0px;
+}
+
+#Guesses {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  padding: 5px;
+}
+
+/* CSS for Button Container (Grid) */
+#gameButtonArea {
+  display: grid;
+  grid-template-columns: repeat(4,50px);  /* 3 columns */
+  grid-template-rows: repeat(4,250px); /* 3 rows  */
+  grid-gap: 5px 5px; 
+  justify-content: space-evenly;
+  justify-items: center;
+  align-content: space-evenly;
+  align-items: center;
+}
+
+/* CSS for all Buttons */
+button {
+  padding: 10px;
+  border-radius: 15px;
+}
+
+#StartStop > button {
+  background: #2F4F4F;
+  color: white;
+  width: 100px;
+  height: 50px;
+  border-radius: 2px;
+  margin: 10px;
+  border-color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#Mode > button {
+  background: #5F9EA0;
+  color: white;
+  width: 70px;
+  border-radius: 10px;
+  margin: 10px;
+  border-color: black;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#gameButtonArea > button  {
+  width: 220px;
+  height: 220px;
+  margin: 5px;
+  border-color: black;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-size: 100%;
+}
+
+#Volume > button {
+  background: #8FBC8F;
+  color: white;
+  width: 70px;
+  border-radius: 10px;
+  margin: 10px;
+  border-color: black;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#button1 {
+  background: #FFB6C1;
+}
+
+#button2 {
+  background: #20B2AA;
+}
+
+#button3 {
+  background: #90EE90;
+}
+
+#button4 {
+  background: #FFA07A;
+}
+
+#button5 {
+  background: #87CEFA;
+}
+
+#button6 {
+  background: #FFFFE0;
+}
+
+#button7 {
+  background: #9370DB;
+}
+
+#button8 {
+  background: #C71585;
+}
+
+/* CSS for Button when clicked*/
+#button1:active, #button1.lit {
+  background: #FF69B4;
+}
+
+#button2:active, #button2.lit {
+  background: #AFEEEE;
+}
+
+#button3:active, #button3.lit {
+  background: #008000;
+}
+
+#button4:active, #button4.lit {
+  background: #FFA500;
+}
+
+#button5:active, #button5.lit {
+  background: #4169E1;
+}
+
+#button6:active, #button6.lit {
+  background: #D8BFD8;
+}
+
+#button7:active, #button7.lit {
+  background: #800080;
+}
+
+#button8:active, #button8.lit {
+  background: #DB7093;
+}
+
+#Start:active{
+  background: #1E90FF;
+}
+
+#Stop:active{
+  background: #1E90FF;
+}
+
+#buttonEasy:active{
+  background: #1E90FF;
+}
+
+#buttonMedium:active{
+  background: #1E90FF;
+}
+
+#buttonHard:active{
+  background: #1E90FF;
+}
+
+/* Hidden CSS */
+.hidden {
+  display: none;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+/*  
+  Specfic CSS References
+  https://www.w3schools.com/cssref/css_colors.asp
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Box_Alignment_in_CSS_Grid_Layout
+*/

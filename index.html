@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--   Prefilled - Initializers   -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <!--   Title   -->
+    <title>Paul Kim, Light Sound Memory Game</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- H1 Tag (Header) -->
+    <h1>Light and Sound Memory Game</h1>
+    
+    <!--   Body Paragraphs   -->
+    <p>
+      Welcome to the game! Repeat back the pattern by pressing buttons.
+      
+      <br> Easy Mode: 3 strikes at slow speed!
+      <br> Medium Mode: 2 strikes at moderate speed!
+      <br> Hard Mode: 1 strike at fast speed!
+      
+    </p>
+    
+    <!--   Dynamic HTML Tags   -->
+    <p id="Dynamic"></p>
+    <p id="Guesses"></p>
+    <p id="VolumeDisplay"></p>
+    <p id="Countdown"></p>
+    
+    <!--  Button Containers for Start/Stop, Mode Buttons, and Volume Buttons    -->
+    <div id = "ButtonContainer" >
+      <div id = "StartStop">
+        <button id="Start" onclick="StartGame()">Start</button>
+        <button id="Stop" class = "hidden" onclick="StopGame()">Stop</button>
+      </div>
+    
+      <div id = "Mode">
+        <button id="buttonEasy" onclick="setMode('E')">Easy</button>
+        <button id="buttonMedium" onclick="setMode('M')">Medium</button>
+        <button id="buttonHard" onclick="setMode('H')">Hard</button>
+      </div>
+      
+      <div id = "Volume">
+        <button id="volumeUp" onclick="volumeUp()">Volume Up</button>
+        <button id="volumeDown" onclick="volumeDown()">Volume Down</button>
+      </div>
+    </div>
+
+    <!--   Game Buttons   -->
+    <div id="gameButtonArea">
+      <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"></button>
+      <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"></button>
+      <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"></button>
+      <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"></button>
+      <button id="button5" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"></button>
+      <button id="button6" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()"></button>
+      <button id="button7" onclick="guess(7)" onmousedown="startTone(7)" onmouseup="stopTone()"></button>
+      <button id="button8" onclick="guess(8)" onmousedown="startTone(8)" onmouseup="stopTone()"></button>
+    </div>
+    
+  </body>
+</html>
