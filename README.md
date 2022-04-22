@@ -1,2 +1,2 @@
 # codepath-prework-PaulKim
-Codepath Pre-work Project
+Codepath Project Paul Kim
