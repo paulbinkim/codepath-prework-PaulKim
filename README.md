@@ -50,10 +50,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-https://user-images.githubusercontent.com/69881202/164789551-af51cc19-92b0-4b41-91d6-d84c74aa045e.gif
-- [MediumFailure](https://user-images.githubusercontent.com/69881202/164789582-f8c41655-e888-4800-908f-f7dc8872c7c7.gif)
-- [HardSuccess](https://user-images.githubusercontent.com/69881202/164789606-adaa9285-1b28-46f2-b4cf-be350a369c89.gif)
-- [Button Features](https://user-images.githubusercontent.com/69881202/164789628-1351440e-6a12-4dcc-ac62-a37c3e95e344.gif)
+- ![EasySuccess] (https://user-images.githubusercontent.com/69881202/164789551-af51cc19-92b0-4b41-91d6-d84c74aa045e.gif)
+- ![MediumFailure](https://user-images.githubusercontent.com/69881202/164789582-f8c41655-e888-4800-908f-f7dc8872c7c7.gif)
+- ![HardSuccess](https://user-images.githubusercontent.com/69881202/164789606-adaa9285-1b28-46f2-b4cf-be350a369c89.gif)
+- ![Button Features](https://user-images.githubusercontent.com/69881202/164789628-1351440e-6a12-4dcc-ac62-a37c3e95e344.gif)
 
 
 ## Reflection Questions
