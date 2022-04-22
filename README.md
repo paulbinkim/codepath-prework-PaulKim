@@ -89,22 +89,40 @@ Button Features Trial
     * Lots of Dynamic HTML Help.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-  
-  
-  
+
+  Undoubtedly the biggest challenge I faced while creating this submission was setting up and implementing the countdown timer that constrained the player when repeating the melodic sequence. This feature was a challenge because throughout the code, I discovered that there were many aspects and areas of logic where we needed to reset the counter. For example, I knew I had to use countDown() and setInterval() function to correctly pace the timer, but I ran into cases where I was stuck in an infinite loop where the player had less and less time to input their answer, even when I thought my logic circuit was correct. After researching this issue on StackFlow and attempting various different functions and codes sequences to debug, I realized I was missing the function clearInterval() before setInterval(). When this function was implemented, I was able to not only successfully terminate the existing timer that was counting down, but also allowed the player to have the corerct time remain each run, to input their answer. 
+
+  Another problem I faced when creating the timer function is having the timer terminate and start again with a 1 second delay between rounds. I researched different methods to implement this and applied the information I learned to find a solution that is most feasible with my code. Essentially, I created a setTimeout() function that recursively called a second setTimeout() function. By setting the first one to have a delay equal to the longest note and the second one to have a 1 second delay, I was able to successfully create and implement the timer function. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+  After completing the submission, I became intrigued about the various web-developments we can create when combining frontend and backend languages. I recently recreated Yelp for a project, and am now curious about how I am able to more smoothly implement HTML/CSS with the backend languages I am familiar with to better improve my Yelp code and user experience. While creating this project, I realized there is so much about programming that I have yet to learn or even become exposed to, and I am curious to see the power and extent of what integrating different languages can hold. 
+
+  Further, I am interested in learning more about the frontend aspects of coding, such as user design using various frameworks like React and Angular. While creating the submission, I was experimenting with different fonts and color schemes, and realized even a slight change in the color of a singular button can disrupt the comfort and overall user experience. This raises the question as to how web developers are able to create a website and/or program that would maximize both user functionality and experience. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
+I would first and foremost add more comments and documentation to make my code more understandable to the general public and clearly map out my logic.
 
+Make the game friendly and accessible to all devices (iOS and Android). I have only tested this program/web page on my Macbook Pro, and would like to extend its usability to mobile devices and possibly even other devices with other screen resolutions.
+
+If time allowed, I would’ve definitely experimented with tone frequencies and even created a unique beat, rather than just a series of monotonic notes.
+
+Continue iterating upon design because there is always room for better UI/UX design.
+
+Improve scalability/extensibility to find a way to make this web project into something bigger than a singular game. For example, possibly adding more games to extend this web platform into a hub for numerous simple Javascript games like this one.
+
+Further reduce the delay when resetting the timer (it’s a little buggy).
+
+Some 1v1 features among friends where users can play against each other and compete to see who gets a higher score.
+
+Introduce variability in number of buttons - let the user decide how many buttons they can play with and further possibly relate the difficulty setting with the number of buttons there are displayed.
+
+Many more possibilities to extend this program if given unlimited time.
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-
+[My 5-minute Interview Recording](https://youtu.be/trxF6ad47Ac)
 
 ## License
 
