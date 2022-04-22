@@ -51,8 +51,7 @@ The following **additional** features are implemented:
 
 GIF Video Walk Through
 
-Easy Success Trial
-![EasySuccess](https://user-images.githubusercontent.com/69881202/164789551-af51cc19-92b0-4b41-91d6-d84c74aa045e.gif)
+- Easy Success Trial ![EasySuccess](https://user-images.githubusercontent.com/69881202/164789551-af51cc19-92b0-4b41-91d6-d84c74aa045e.gif)
 
 Medium Failure Trial
 ![MediumFailure](https://user-images.githubusercontent.com/69881202/164789582-f8c41655-e888-4800-908f-f7dc8872c7c7.gif)
