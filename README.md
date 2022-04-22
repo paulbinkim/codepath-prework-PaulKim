@@ -71,18 +71,18 @@ Button Features Trial
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
   
-  * Stack Overflow -- General Reference for HTML, CSS, and Javascript.
-  
-  * W3Schools -- General Reference for HTML and CSS.
+    * Stack Overflow -- General Reference for HTML, CSS, and Javascript.
 
-  * University of Southern California Lecture Notes (ITP 104 (Intro. Web Dev), CSCI 201 (Principles of Software Engineering)) -- General CSS, HTMl, JS Documentation
-  
-  * https://www.intmath.com/trigonometric-graphs/music.php -- General Reference for Musical Frequencies
-  
-  * https://courses.codepath.org/snippets/summer_internship_for_tech_excellence/prework -- Main Reference (Tutorial)
-  
-  * Lots of JavaScript Reference and CSS Styling Help.
-  * Dynamic HTML.
+    * W3Schools -- General Reference for HTML and CSS.
+
+    * University of Southern California Lecture Notes (ITP 104 (Intro. Web Dev), CSCI 201 (Principles of Software Engineering)) -- General CSS, HTMl, JS Documentation.
+
+    * https://www.intmath.com/trigonometric-graphs/music.php -- General Reference for Musical Frequencies
+
+    * https://courses.codepath.org/snippets/summer_internship_for_tech_excellence/prework -- Main Reference (Tutorial)
+
+    * Lots of JavaScript Reference and CSS Styling Help.
+    * Lots of Dynamic HTML Help.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
   
