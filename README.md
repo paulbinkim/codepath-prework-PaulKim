@@ -4,7 +4,7 @@
 
 Submitted by: Paul Kim
 
-Time spent: 5 hours spent in total (Including Additional Feautures and Other Submission Steps)
+Time spent: 5 hours spent in total (Excluding Submission Steps)
 
 Link to project: https://noisy-foam-princess.glitch.me
 
