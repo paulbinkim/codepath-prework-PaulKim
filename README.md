@@ -7,6 +7,7 @@ Submitted by: Paul Kim
 Time spent: 5 hours spent in total (Including Additional Feautures and Other Submission Steps)
 
 Link to project: https://noisy-foam-princess.glitch.me
+
 Code: https://glitch.com/edit/#!/noisy-foam-princess?path=index.html%3A1%3A0
 
 ## Required Functionality
