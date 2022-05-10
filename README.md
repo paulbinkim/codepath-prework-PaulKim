@@ -120,10 +120,6 @@ Button Features Trial
 
 - Many more possibilities to extend this program if given unlimited time.
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://youtu.be/trxF6ad47Ac)
-
 ## License
 
     Copyright [Paul Kim]
